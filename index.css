@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&family=Lobster&family=Teko&family=The+Nautigal&family=Ubuntu+Condensed&display=swap');
+body {
+    background: rgb(243, 193, 255);
+    padding: 30px;
+    font-family: 'Cardo';
+    font-size: 20px;
+}
+.header {
+    background-color: rgb(250, 169, 250);
+    padding: 30px;
+    border-radius: 100px;
+    border: 4px solid purple;
+
+    
+
+    }
+.conteiner {
+    max-width: 800px;
+    margin: auto;
+    margin-top: 0;
+
+}
+#SN {
+    background: rgb(250, 169, 250);
+    padding: 30px;
+    margin-bottom: 10px;
+    border-radius: 40px;
+    border: 4px solid rgb(250, 169, 250);
+}
+
+#header {
+    background: rgb(250, 169, 250);
+    padding: 40px;
+    margin-bottom: 20px;
+    border-radius: 40px;
+    border: 4px solid rgb(250, 169, 250);
+}
+#name ,#info {
+    background: rgb(250, 169, 250);
+    padding: 30px;
+    margin-bottom: 10px;
+    border-radius: 40px;
+    border: 4px solid rgb(250, 169, 250);
+
+
+}
+footer {
+    background: rgb(250, 169, 250);
+    padding: 30px;
+    border-radius: 40px;
+    border: 4px solid rgb(250, 169, 250);
+    margin-bottom: 20px;
+
+}
+.avatar {
+    border-radius: 50px;
+    float: left;
+    box-shadow:19px -20px 11px 1px rgb(0 0 0 / 25%) ;
+}
+header h1 {
+    font-size: 100px;
+    margin-bottom: 0px;
+    margin-top: 0%;
+
+}
+#name {
+    border-top: 1px;
+
+    
+}
+#name p {
+    font-size: 25px;
+    margin-left: 50px;
+}
+
+
+#SN h3 {
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+
+}
+#SN {
+    background: rgb(250, 169, 250);
+    text-align: center;
+}
+#sites {
+    margin-bottom: 100px;
+}
+.card {
+    background: rgb(250, 169, 250);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 50px;
+}
+.list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+
+}
+#SN ,.sites, a {
+    padding :30px;
+}
+.list li {
+    margin-bottom: 10px;
+    border-bottom: 4px solid rgb(250, 169, 250);
+}
+.cord {
+    text-align: center;
+}
+.ol {
+    list-style: none;
+}
+.tablecj td:hover {
+    color: rgb(250, 134, 250);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.one li {
+    margin-bottom: 50px;
+    list-style: none;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 70px;
+
+
+
+}
+.one li a {
+    padding: 30px;
+    border-radius: 23px;
+    background:  rgb(250, 134, 250);
+    color: black;
+}
+.bolek {
+    margin-bottom: 1000px;
+}
+#SN h2 {
+    padding-left: 50px;
+
+}
+  
+
+
+
+
+
+    

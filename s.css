@@ -1,0 +1,147 @@
+
+/* a:visited { 
+    color: rgb(81, 0, 88);
+    background:rgb(250, 176, 250) ;
+    
+}*/
+header:hover {
+    margin: -10px;
+    transition: all .5s;
+}
+/* #name:hover { 
+    margin: -1px;
+
+}
+#SN:hover {
+    margin: -1px;
+
+}
+footer:hover {
+    margin: -1px;
+
+}
+.card:hover {
+    margin: -1px;
+
+}*/
+
+.btn:hover {
+    opacity: 0.8;
+}
+.table {
+    width: 100%;
+}
+.table td {
+    background: rgb(250, 169, 250);
+    text-align: center;
+}
+header {
+    text-align: center;
+}
+.tablecj {
+    font-size: 30px;
+    width: 90%;
+    margin: auto;
+}
+.tablecj td {
+    background:rgb(243, 193, 255) ;
+}
+.card {
+    text-align: center;
+}
+footer {
+    text-align: center;
+
+}
+.table tr:nth-child(even) {
+    color:rgb(252, 135, 154);
+}
+.table tr:nth-child(odd) {
+    color:rgb(255, 0, 43);
+}
+.table td:nth-child(even) {
+    color: rgb(104, 48, 104);
+
+}
+.OURSITE {
+    background: rgb(250, 169, 250);
+    border-radius: 100px;
+    text-align: center;
+    padding: 50px;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.block {
+    float:left;
+    font-size: 12px;
+    margin-bottom: 100px;
+    font-size: 30px;
+    text-align: center;
+
+}
+.navbar {
+    background: rgb(250, 169, 250);
+    text-align: center;
+    list-style: none;
+
+
+   
+}
+.navbar li{
+    text-decoration: none;
+    list-style: none;
+}
+#name {
+    display:flex
+}
+.inf h2 {
+    margin-left: 50px;
+}
+
+a {
+    background: rgb(246, 215, 250);
+    text-decoration: none;
+    border-radius: 100px;
+    padding: 10px 30px 10px 30px;
+    color: rgb(153, 58, 163);
+    transition: all.3s;
+}
+a:hover {
+    color: rgb(112, 6, 124);
+    font-size: 25px;
+}
+footer input {
+    border: none;
+    
+    background:rgb(243 193 255) ;
+}
+footer textarea {
+    border: none;
+    background: rgb(243 193 255);
+
+    
+}
+footer button {
+    background:rgb(246, 215, 250) ;
+    border: none;
+    font-size: 23px;
+    border-radius: 100px;
+    padding: 5px 10px 5px 10px;
+}
+footer button:hover {
+    font-size: 30px;
+    transition: all.3s;
+}
+.label {
+    border-bottom: 2px solid rgb(248, 161, 248);
+    padding: 10px;
+}
+.inf p {
+    font-size: 80%;
+}
+@media (max-width:510px) {
+    #name {
+        display: block;
+        margin-left: 30px;
+    }
+}
