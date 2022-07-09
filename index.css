@@ -112,6 +112,7 @@ header h1 {
 }
 .ol {
     list-style: none;
+    margin-left: -20px;
 }
 .tablecj td:hover {
     color: rgb(250, 134, 250);
@@ -138,6 +139,7 @@ header h1 {
 }
 #SN h2 {
     padding-left: 50px;
+    margin-left: -30px;
 
 }
   

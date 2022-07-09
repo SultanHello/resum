@@ -108,7 +108,7 @@ a {
 }
 a:hover {
     color: rgb(112, 6, 124);
-    font-size: 25px;
+    font-size: 13px;
 }
 footer input {
     border: none;
@@ -129,7 +129,7 @@ footer button {
     padding: 5px 10px 5px 10px;
 }
 footer button:hover {
-    font-size: 30px;
+    font-size: 17px;
     transition: all.3s;
 }
 .label {
@@ -152,7 +152,9 @@ footer button:hover {
     }
     a {
         font-size: 60%;
+        
     }
+
     #name p {
         margin-left: 0;
         font-size: 90%;
@@ -177,7 +179,7 @@ footer button:hover {
         font-size: 80%;
     }
     #SN h2 {
-        font-size: 80%;
+        font-size: 90%;
 
     }
     .tablecj {
@@ -188,7 +190,8 @@ footer button:hover {
         font-size: 15px;
     }
     header h2 {
-        font-size: 90%;
+
+        font-size: 19px;
     }
 
 }
