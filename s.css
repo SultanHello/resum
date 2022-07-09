@@ -142,6 +142,53 @@ footer button:hover {
 @media (max-width:510px) {
     #name {
         display: block;
-        margin-left: 30px;
+
+        
+        
     }
+    header h1 {
+        font-size: 60px;
+
+    }
+    a {
+        font-size: 60%;
+    }
+    #name p {
+        margin-left: 0;
+        font-size: 90%;
+
+    }
+    .ava {
+        padding-left: 30px;
+        text-align: center;
+
+    }
+    .inf h2 {
+        font-size: 90%;
+    }
+    .inf p {
+        font-size: 60%;
+    }
+    #SN h3 {
+        font-size: 96%;
+        
+    }
+    .ol {
+        font-size: 80%;
+    }
+    #SN h2 {
+        font-size: 80%;
+
+    }
+    .tablecj {
+        font-size: 90%;
+
+    }
+    footer button {
+        font-size: 15px;
+    }
+    header h2 {
+        font-size: 90%;
+    }
+
 }
