@@ -128,9 +128,9 @@ footer button {
     border-radius: 100px;
     padding: 5px 10px 5px 10px;
 }
+
 footer button:hover {
-    font-size: 17px;
-    transition: all.3s;
+    color: rgb(255, 124, 233);
 }
 .label {
     border-bottom: 2px solid rgb(248, 161, 248);
