@@ -151,7 +151,7 @@ footer button:hover {
 
     }
     a {
-        font-size: 60%;
+        font-size: 40%;
         
     }
 
@@ -161,7 +161,7 @@ footer button:hover {
 
     }
     .ava {
-        padding-left: 30px;
+        /* padding-left: 30px; */
         text-align: center;
 
     }
